@@ -346,4 +346,4 @@ CREATE TABLE cc_mart.fact_creditcard (
     load_dt DATE,
     load_ts TIMESTAMP);
 
-
+create database Sample;
